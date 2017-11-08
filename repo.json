@@ -22,7 +22,7 @@
 	],
 	"Versions": [{
 		"Version": "1.0.0",
-		"Url": "N/A",
+		"Url": "https://github.com/pbsds/micro-railscast-theme/archive/1.0.0.zip",
 		"Require": {
 			"micro": ">=1.3.1"
 		}
