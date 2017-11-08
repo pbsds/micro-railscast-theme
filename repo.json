@@ -1,0 +1,30 @@
+[{
+	"Name": "railscast-theme",
+	"Description": "Colorscheme based on the RailsCast TextMate theme.",
+	"Tags": [
+		"rail",
+		"rails",
+		"railcast",
+		"railcasts",
+		"railscast",
+		"railscasts",
+		"cast",
+		"color",
+		"colors",
+		"theme",
+		"themes",
+		"colorscheme",
+		"colorschemes",
+		"yellow",
+		"red",
+		"brown",
+		"dark"
+	],
+	"Versions": [{
+		"Version": "1.0.0",
+		"Url": "N/A",
+		"Require": {
+			"micro": ">=1.3.1"
+		}
+	}]
+}]
